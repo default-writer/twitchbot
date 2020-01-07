@@ -1,3 +1,6 @@
+# DevOps
+*.cmd
+
 # Logs
 logs
 *.log
