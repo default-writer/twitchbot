@@ -39,7 +39,7 @@ function onMessageHandler (target, context, msg, self) {
   
   // If the command is known, let's execute it
   if (commandName === '!links') {
-    client.say(target, `Ссылка на Discord канал: https://discordapp.com/channels/556186651412398082/560610505614557184`);
+    client.say(target, `Ссылка на Discord канал: https://discord.gg/9qPBnxq`);
     console.log(`* Executed ${commandName} command`);
   } else {
     console.log(`* Unknown command ${commandName}`);
